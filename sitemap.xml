@@ -3,7 +3,21 @@
   <url>
     <loc>https://www.clinicabrasilodonto.com.br/</loc>
     <lastmod>2026-11-03</lastmod>
-    <changefreq>monthly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.clinicabrasilodonto.com.br/dor-de-dente-urgencia-grajau/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.clinicabrasilodonto.com.br/implante-protese-dentaria-grajau/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.clinicabrasilodonto.com.br/clareamento-dental-grajau/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <priority>0.8</priority>
   </url>
 </urlset>
