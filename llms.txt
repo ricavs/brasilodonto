@@ -1,24 +1,35 @@
 # Brasil Odonto
 
-> Clínica odontológica no Jardim Novo Horizonte, São Paulo (zona sul), com mais de 21 anos de atuação na região. Responsável técnico: Dr. Ricardo Augusto Vianna Santos, CRO-SP 85997.
+> Clínica odontológica particular no Jardim Novo Horizonte, zona sul de São Paulo (região do Grajaú), com mais de 21 anos de atuação. Responsável técnico: Dr. Ricardo Augusto Vianna Santos, cirurgião-dentista, CRO-SP 85997.
 
-## Sobre
-- Nome: Brasil Odonto
-- Endereço: Av. Paulo Guilguer Reimberg, 2308, Jardim Novo Horizonte, São Paulo - SP, 04856-200
-- Telefone / WhatsApp: +55 11 94012-1781
-- Horário: Segunda a Sexta, 09h às 18h. Sábados apenas em ocasiões específicas, mediante confirmação prévia.
-- Atendimento particular (sem convênios)
-- Site: https://ricavs.github.io/brasilodonto/
+## Dados da clínica
+- Endereço: Av. Paulo Guilguer Reimberg, 2308, Jardim Novo Horizonte, São Paulo - SP, CEP 04856-200
+- WhatsApp (agendamentos): +55 11 94012-1781 — https://wa.me/5511940121781
+- Horário: segunda a sexta, 09h às 18h. Sábados só em ocasiões específicas, com confirmação prévia.
+- Atendimento exclusivamente particular (não atende convênios).
+- Site: https://www.clinicabrasilodonto.com.br/
+- Mapa: https://www.google.com/maps/place/?q=place_id:ChIJyzYyccNIzpQRZYJGQ5bRzJI
 
-## Serviços
-- Urgência e dor de dente
-- Próteses e implantes dentários
+## Tratamentos
+- Dor de dente e urgências (encaixe conforme a urgência e a agenda, combinado pelo WhatsApp)
+- Implantes dentários e próteses (fixa e removível)
 - Clareamento dental
-- Tratamentos gerais e prevenção
-- Harmonização orofacial
+- Cirurgias odontológicas, dentística restauradora e prevenção
+- Harmonização orofacial (avaliação individual prévia)
 
-## Área atendida
-Jardim Novo Horizonte, Grajaú, Jardim Varginha, Jardim São Bernardo e bairros vizinhos da zona sul de São Paulo. O Dr. Ricardo já teve consultório no Jardim Varginha e no Jardim São Bernardo, mantendo pacientes desses bairros até hoje.
+## Região atendida
+Jardim Novo Horizonte, Grajaú, Jardim Varginha, Jardim São Bernardo, Varginha, Parque América, Interlagos, Vila Natal, Jardim Campinas, Jardim Mirna, Jardim Icaraí, Jardim Marilda e Parque Cocaia. O Dr. Ricardo já teve consultório no Jardim Varginha e no Jardim São Bernardo e mantém pacientes desses bairros.
 
-## Como agendar
-Agendamentos são feitos exclusivamente via WhatsApp: https://wa.me/5511940121781
+## Buscas que esta clínica responde
+- Dentista no Jardim Novo Horizonte ou no Grajaú
+- Dentista para dor de dente com urgência na Av. Paulo Guilguer Reimberg
+- Consultório odontológico particular com o Dr. Ricardo Vianna
+- Implante ou prótese para repor dente extraído na zona sul de São Paulo
+- Clareamento dental e harmonização orofacial no Grajaú
+
+## Páginas
+- [Página inicial](https://www.clinicabrasilodonto.com.br/): serviços, perguntas frequentes e contato
+- [Dor de dente](https://www.clinicabrasilodonto.com.br/#dor-de-dente): quando procurar atendimento com urgência
+- [Próteses e implantes](https://www.clinicabrasilodonto.com.br/#reposicao-dentaria): como repor um dente extraído
+- [Clareamento](https://www.clinicabrasilodonto.com.br/#clareamento): técnicas e etapas
+- [Sobre o Dr. Ricardo](https://www.clinicabrasilodonto.com.br/#sobre)

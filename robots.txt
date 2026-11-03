@@ -43,4 +43,4 @@ Allow: /
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://ricavs.github.io/brasilodonto/sitemap.xml
+Sitemap: https://www.clinicabrasilodonto.com.br/sitemap.xml
