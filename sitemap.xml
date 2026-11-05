@@ -2,22 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.clinicabrasilodonto.com.br/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.clinicabrasilodonto.com.br/tratamentos/</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://www.clinicabrasilodonto.com.br/dor-de-dente-urgencia-grajau/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.clinicabrasilodonto.com.br/implante-protese-dentaria-grajau/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.clinicabrasilodonto.com.br/implante-dentario-grajau/</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.clinicabrasilodonto.com.br/protese-dentaria-grajau/</loc>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.clinicabrasilodonto.com.br/clareamento-dental-grajau/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.clinicabrasilodonto.com.br/dentistica-restauradora-grajau/</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.clinicabrasilodonto.com.br/cirurgia-odontologica-siso-extracao-grajau/</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.clinicabrasilodonto.com.br/harmonizacao-orofacial-grajau/</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.clinicabrasilodonto.com.br/limpeza-dental-prevencao-grajau/</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.clinicabrasilodonto.com.br/dr-ricardo-vianna/</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.clinicabrasilodonto.com.br/como-chegar/</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.7</priority>
   </url>
 </urlset>

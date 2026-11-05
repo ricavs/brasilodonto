@@ -28,8 +28,16 @@ Jardim Novo Horizonte, Grajaú, Jardim Varginha, Jardim São Bernardo, Varginha,
 - Clareamento dental e harmonização orofacial no Grajaú
 
 ## Páginas
-- [Página inicial](https://www.clinicabrasilodonto.com.br/): serviços, perguntas frequentes e contato
-- [Dor de dente e urgência](https://www.clinicabrasilodonto.com.br/dor-de-dente-urgencia-grajau/): Fale pelo WhatsApp explicando o que você sente. O encaixe é organizado conforme a urgência e a agenda do dia.
-- [Implante e prótese dentária](https://www.clinicabrasilodonto.com.br/implante-protese-dentaria-grajau/): Entenda as opções para repor um dente e agende uma avaliação individual pelo WhatsApp.
-- [Clareamento dental](https://www.clinicabrasilodonto.com.br/clareamento-dental-grajau/): Técnica indicada após avaliação da sua saúde bucal, com acompanhamento do cirurgião-dentista.
-- [Sobre o Dr. Ricardo](https://www.clinicabrasilodonto.com.br/#sobre)
+- [Página inicial](https://www.clinicabrasilodonto.com.br/): visão geral da clínica
+- [Todos os tratamentos](https://www.clinicabrasilodonto.com.br/tratamentos/)
+- [Dor de dente e urgência](https://www.clinicabrasilodonto.com.br/dor-de-dente-urgencia-grajau/): Dor, inchaço ou dente quebrado: explique pelo WhatsApp e a equipe organiza o encaixe conforme a urgência e a agenda.
+- [Reposição dentária: implante ou prótese](https://www.clinicabrasilodonto.com.br/implante-protese-dentaria-grajau/): Extraiu um dente? Entenda as opções para repor e como é decidida a melhor para o seu caso.
+- [Implante dentário](https://www.clinicabrasilodonto.com.br/implante-dentario-grajau/): Alternativa fixa para repor dentes perdidos, com avaliação individual prévia de viabilidade.
+- [Prótese dentária](https://www.clinicabrasilodonto.com.br/protese-dentaria-grajau/): Prótese fixa ou removível para recuperar mastigação e estética, com revisão periódica.
+- [Clareamento dental](https://www.clinicabrasilodonto.com.br/clareamento-dental-grajau/): Sorriso mais claro e uniforme, com técnica supervisionada e atenção à sensibilidade.
+- [Dentística restauradora](https://www.clinicabrasilodonto.com.br/dentistica-restauradora-grajau/): Tratamento de cáries, desgastes e fraturas, devolvendo função e estética ao dente.
+- [Cirurgias odontológicas: siso e extrações](https://www.clinicabrasilodonto.com.br/cirurgia-odontologica-siso-extracao-grajau/): Siso, extrações e outros procedimentos cirúrgicos, com acompanhamento antes e depois.
+- [Harmonização orofacial](https://www.clinicabrasilodonto.com.br/harmonizacao-orofacial-grajau/): Botox, preenchimento labial, fios de PDO e bioestimulador, sempre com avaliação individual prévia.
+- [Limpeza dental e prevenção](https://www.clinicabrasilodonto.com.br/limpeza-dental-prevencao-grajau/): Remoção de placa e tártaro, cuidado com a gengiva e orientação de higiene.
+- [Dr. Ricardo Vianna](https://www.clinicabrasilodonto.com.br/dr-ricardo-vianna/): cirurgião-dentista, CRO-SP 85997
+- [Como chegar](https://www.clinicabrasilodonto.com.br/como-chegar/): endereço, horário e mapa
